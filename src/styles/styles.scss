@@ -1,6 +1,6 @@
-@import '/src/styles/block.scss/header';
-@import '/src/styles/block.scss/stars';
-@import '/src/styles/block.scss/card';
+@import './blocks/card';
+@import './blocks/header';
+@import './blocks/stars';
 
 body {
   margin: 0;
